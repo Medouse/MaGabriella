@@ -1,6 +1,6 @@
 ## Olá, me chamo Maria Gabriella!
 
-<img align='right' src="https://media.giphy.com/media/1qNdvtfBAzkI2gCRiZ/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/s10zRLPAdqfAY9HbnE/giphy.gif" width="230">
 
 
 👩‍💻 *Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE*
