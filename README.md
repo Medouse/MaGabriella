@@ -1,8 +1,5 @@
 ## Olá, me chamo Maria Gabriella!
 
-<img align='right' src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="230">
-
-
 👩‍💻 *Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE*
 
 💼 **Áreas de interesse:** *Desenvolvimento Frontend | UI & UX Design*
