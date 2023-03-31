@@ -2,7 +2,6 @@
 
 👩‍💻 *Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE*
 
-💼 **Áreas de interesse:** *Desenvolvimento Frontend | UI & UX Design*
 
 📚 **Estudando atualmente:** 
 <div>
